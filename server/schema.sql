@@ -7,6 +7,8 @@ CREATE TABLE messages (
   id int not null auto_increment, name varchar(20) not null, primary key (id)
 );
 
+
+
 /* Create other tables and define schemas for them here! */
 
 
